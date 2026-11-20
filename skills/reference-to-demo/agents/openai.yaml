@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference to Demo"
+  short_description: "Adapt visual references into usable demos and handoffs"
+  default_prompt: "Use $reference-to-demo to adapt this reference into an interactive component with state behavior and developer handoff."

@@ -1,0 +1,22 @@
+{
+  "color": {
+    "page": "#eef2f6",
+    "ink": "#152238",
+    "muted": "#4d5d73",
+    "blue": "#154c76",
+    "violet": "#503776",
+    "cardText": "#f6f9ff",
+    "focus": "#0d5eb5"
+  },
+  "radius": {
+    "card": "24px",
+    "control": "12px"
+  },
+  "motion": {
+    "tiltMaximumDegrees": 6,
+    "transitionMs": 160
+  },
+  "font": {
+    "body": "\"Segoe UI\", \"Microsoft YaHei\", system-ui, sans-serif"
+  }
+}

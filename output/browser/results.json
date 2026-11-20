@@ -1,0 +1,86 @@
+[
+  {
+    "page": "reference",
+    "language": "en",
+    "device": "desktop",
+    "viewport": [
+      1280,
+      900
+    ],
+    "checks": [
+      "no horizontal overflow",
+      "no JavaScript exceptions",
+      "no external network requests",
+      "finish and selection state",
+      "event contract",
+      "keyboard activation",
+      "reduced motion",
+      "reload resets local state"
+    ],
+    "passed": true,
+    "screenshot": "reference-en-desktop.png"
+  },
+  {
+    "page": "reference",
+    "language": "zh-CN",
+    "device": "desktop",
+    "viewport": [
+      1280,
+      900
+    ],
+    "checks": [
+      "no horizontal overflow",
+      "no JavaScript exceptions",
+      "no external network requests",
+      "finish and selection state",
+      "event contract",
+      "keyboard activation",
+      "reduced motion",
+      "reload resets local state"
+    ],
+    "passed": true,
+    "screenshot": "reference-zh-CN-desktop.png"
+  },
+  {
+    "page": "reference",
+    "language": "en",
+    "device": "mobile",
+    "viewport": [
+      390,
+      844
+    ],
+    "checks": [
+      "no horizontal overflow",
+      "no JavaScript exceptions",
+      "no external network requests",
+      "finish and selection state",
+      "event contract",
+      "keyboard activation",
+      "reduced motion",
+      "reload resets local state"
+    ],
+    "passed": true,
+    "screenshot": "reference-en-mobile.png"
+  },
+  {
+    "page": "reference",
+    "language": "zh-CN",
+    "device": "mobile",
+    "viewport": [
+      390,
+      844
+    ],
+    "checks": [
+      "no horizontal overflow",
+      "no JavaScript exceptions",
+      "no external network requests",
+      "finish and selection state",
+      "event contract",
+      "keyboard activation",
+      "reduced motion",
+      "reload resets local state"
+    ],
+    "passed": true,
+    "screenshot": "reference-zh-CN-mobile.png"
+  }
+]
